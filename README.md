@@ -38,18 +38,6 @@ If you're here to see my work, that's the place to go. This GitHub profile is ju
 
 ---
 
-## 📦 Projects on GitHub
-
-Only a handful of things live here:
-
-- **[Project Name](https://github.com/YOUR-USERNAME/PROJECT)**: one-line description of the new project.
-- **[Old Project 1](https://github.com/YOUR-USERNAME/OLD-PROJECT-1)**: short description.
-- **[Old Project 2](https://github.com/YOUR-USERNAME/OLD-PROJECT-2)**: short description.
-
-Everything else, including active work, older projects, and experiments, is on **[gitea.phaze3.net](https://gitea.phaze3.net)**.
-
----
-
 <p align="center">
   <a href="https://gitea.phaze3.net"><b>➡️ Browse everything on my Gitea server ⬅️</b></a>
 </p>
